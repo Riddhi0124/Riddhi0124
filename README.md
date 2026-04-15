@@ -39,6 +39,16 @@
 | 📦 | **Amazon** — Sortation Center Associate · *May–Aug 2024 · Nashville, TN* | • Streamlined workflows using agile principles & analytical thinking |
 
 ---
+## 📜 Certifications
+
+- 🛠 **GitLab CI Fundamentals** — GitLab (Jun 2025)  
+  Focus: CI/CD pipelines, automation, deployment workflows  
+
+- 💻 **J.P. Morgan Software Engineering Job Simulation** — Forage (Sep 2024)  
+  Focus: real-world development tasks, debugging, system design  
+
+- 🔐 **JPMorgan Chase Cybersecurity Job Simulation** — Forage (Sep 2024)  
+  Focus: threat analysis, security practices, vulnerability awareness  
 
 ## 🚀 Projects
 
