@@ -48,7 +48,11 @@
   Focus: real-world development tasks, debugging, system design  
 
 - 🔐 **JPMorgan Chase Cybersecurity Job Simulation** — Forage (Sep 2024)  
-  Focus: threat analysis, security practices, vulnerability awareness  
+  Focus: threat analysis, security practices, vulnerability awareness 
+  
+- 🟨 **TypeScript for Professionals** — Udemy (Jun 2025)  
+
+- 🟨 **Professional JavaScript (Beginner to Advanced)** — Udemy (Jun 2025)  
 
 ## 🚀 Projects
 
